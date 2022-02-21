@@ -1,0 +1,5 @@
+Họ và tên: Trần Lê Uyên Vy
+Fork Reppo URL: https://github.com/VyTLU/GitTest.git
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/6
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/7
+Team: Software
