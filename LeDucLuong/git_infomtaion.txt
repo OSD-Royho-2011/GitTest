@@ -1,0 +1,5 @@
+Họ và tên : Lê Đức Lương
+Fork Repo URL: https://github.com/duccluongg/GitTest/tree/software/luongld/create-folder
+PullRequest của bài tập 1:
+PullRequest của bài tập 2:
+Team software
