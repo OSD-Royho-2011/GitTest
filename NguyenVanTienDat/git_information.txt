@@ -1,0 +1,5 @@
+Họ và tên: Nguyễn Văn Tiến Đạt
+Fork Repo URL: https://github.com/OSD-Royho-2011/GitTest/pull/18
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/18
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/19
+Team: AI
