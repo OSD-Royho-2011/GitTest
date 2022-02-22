@@ -1,0 +1,5 @@
+Họ và tên: Lê Xuân Thuận
+Fork Repo URL: https://github.com/thuanle1203/GitTest
+Pullrequest của bài tập 1: 
+Pullrequest của bài tập 2: 
+Team: Software
