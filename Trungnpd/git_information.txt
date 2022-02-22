@@ -1,0 +1,5 @@
+- Họ và tên: Nguyen Phan Duc Trung
+- Fork Repo URL: https://github.com/npdtrung/GitTest.git
+- Pullrequest của bài tập 1: Create a folder
+- Pullrequest của bài tập 2: Create a file
+- Team: Data
