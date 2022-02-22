@@ -1,2 +1,5 @@
 Họ và tên: Đàm Quang Tiến
 Fork Repo URL: https://github.com/damtien444/GitTest
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/11
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/12
+Team: Data
