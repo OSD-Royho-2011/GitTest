@@ -1,5 +1,5 @@
-Họ và tên: Nguyễn Gia Bảo
-Fork repo URL:  https://github.com/giabaro23/GitTest/tree/main
-Pull request bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/13
-Pull request bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/14
-Tên team: Software
+1.Họ và tên: Nguyễn Gia Bảo
+2.Fork repo URL:  https://github.com/giabaro23/GitTest/tree/main
+3.Pull request bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/13
+4.Pull request bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/14
+5.Tên team: Software
