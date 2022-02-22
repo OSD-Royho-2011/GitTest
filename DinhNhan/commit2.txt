@@ -1,0 +1,7 @@
+Họ và tên: Phạm Đình Nhân
+Fork Repo URL: https://github.com/NhanPhamdinh/GitTest
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/26
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/28
+Team: AI
+
+
