@@ -1,0 +1,5 @@
+Họ và tên: Trương Thị Mai Huệ
+Fork Repo URL: https://github.com/TruongThiMaiHue/GitTest.git
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/39
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/41
+Team: Software
