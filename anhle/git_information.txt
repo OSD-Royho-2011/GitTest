@@ -1,0 +1,5 @@
+Họ và tên: Lê Ngọc Châu Anh
+Fork Repo URL: https://github.com/YoakeArsene/GitTest
+Pullrequest của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/43
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/44
+Team: Software
