@@ -24,9 +24,8 @@ Từ bài tập 1, tạo nhánh mới và tạo file git_infomation.txt chứa t
 ### Chú ý: Tên branch phải theo format: [Tên team/Tên viết tắt/rebase-commit]. Ví dụ: software/huyhm/rebase-commit
 
 ## Nộp bài tập:
-- Thông báo cho bạn Hồ Minh Huy tại comment của post bên dưới hình.
+- Thông báo cho bạn Hồ Minh Huy tại trong box git.
 
-![comment 1](https://user-images.githubusercontent.com/64391153/154940913-f55d5b88-18f1-4486-a7b7-a014f1592964.PNG)
 
 
 ### Happy coding!!!
