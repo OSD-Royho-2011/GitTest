@@ -1,0 +1,5 @@
+-Họ và tên : Nguyễn Hà Quốc Bảo
+-Fork Repo URL : https://github.com/baonguyenhaquoc/GitTest.git
+-Pullrequest của bt1 : https://github.com/OSD-Royho-2011/GitTest/pull/49
+-Pullrequest của bt2 : https://github.com/OSD-Royho-2011/GitTest/pull/58
+-Team : MOE/QC
