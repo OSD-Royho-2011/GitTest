@@ -1,5 +1,5 @@
 Họ và tên: Nguyễn Trung Bảo Trâm
 Fork Repo URL: https://github.com/nguyentrungbaotram/GitExercise.git
 Pullrequest của bài tập 1:https://github.com/OSD-Royho-2011/GitTest/pull/63
-Pullrequest của bài tập 2:...
+Pullrequest của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/64
 Team: QC
