@@ -1,0 +1,5 @@
+Họ và tên: Nguyen Doan Thanh Chuong
+Fork Repo URL: https://github.com/nguyenchuongbep1310/GitTest.git
+Pullrequest của bài tập 1:task1
+Pullrequest của bài tập 2:task2
+Team:[AI/ Data/ Software/ BA]
