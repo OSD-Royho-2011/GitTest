@@ -1,31 +1,10 @@
-# Bài tập Git test
-## Chú ý chung
-- Làm theo hướng dẫn như ở phần workflow ở cuối của slide git.
-Thông tin: 
-Company repo: https://github.com/OSD-Royho-2011/GitTest
-## 1. Bài tập 1
--  Tạo nhánh mới 
--  Tạo folder mang tên mình và đẩy lên github.
-### Chú ý: Tên branch phải theo format: [Tên team/Tên viết tắt/create-folder]. Ví dụ: data/huyhm/create-folder
-
-## 2. Bài tập 2:
-Từ bài tập 1, tạo nhánh mới và tạo file git_infomation.txt chứa thông tin trong folder(ở bài tập 1) như sau:
-- Họ và tên: ....
-- Fork Repo URL: ...
-- Pullrequest của bài tập 1:...
-- Pullrequest của bài tập 2:...
-- Team:[AI/ Data/ Software/ BA]
-### Chú ý: Tên branch phải theo format: [Tên team/Tên viết tắt/create-git-infomation-file]. Ví dụ: software/huyhm/create-git-infomation-file
-
-## 3. Bài tập 3:
-- Từ bài tập 2, tạo nhánh mới
-- Gộp 2 commit từ bài tập 1 và bài tập 2 thành một commit
-- Team:[AI/ Data/ Software/ BA]
-### Chú ý: Tên branch phải theo format: [Tên team/Tên viết tắt/rebase-commit]. Ví dụ: software/huyhm/rebase-commit
-
-## Nộp bài tập:
-- Thông báo cho bạn Hồ Minh Huy tại trong box git.
-
-
-
+# Git Exercise
+## Company repo: https://github.com/OSD-Royho-2011/automation-training-session-4-no-control
+## Exercise
+-  Create a new file with your name and push it to the repository, then create a pull request on GitHub.
+### Note:
+-  The file name should follow the format: **[your_name]_test**. For example: **huyhm_test**
+-  The branch name should follow the format: **[or/your_name/test]**. For example: **or/huyhm/test**
+## Submission:
+- Send your pull request link to the training meeting chatbox.
 ### Happy coding!!!
